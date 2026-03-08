@@ -2,7 +2,6 @@
 
 ![My GIF](./GIF-Introduction-github.gif)
 
-#### if you need support with a project, just send me a message at abhishektripathikuberji@gmail.com
 
 <h3 align="left">Here are the main tech stacks I usually work with</h3>
 
